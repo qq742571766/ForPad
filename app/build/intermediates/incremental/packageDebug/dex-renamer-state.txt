@@ -1,0 +1,7 @@
+#Tue Mar 28 18:01:25 CST 2017
+base.0=G\:\\demo\\HelloDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0ae8f088866a7675a79b3039519e643d72259243
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=G\:\\demo\\HelloDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_862146ac38f7074dacea418a27024aa6c5cd1924\\classes.dex
+base.1=G\:\\demo\\HelloDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_862146ac38f7074dacea418a27024aa6c5cd1924
+file.0=G\:\\demo\\HelloDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_0ae8f088866a7675a79b3039519e643d72259243\\classes.dex

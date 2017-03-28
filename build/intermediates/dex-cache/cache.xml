@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="G:\demo\HelloDemo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d79e55ca0e8e63f3b3cf4cf38b16f95fe88d08cb">
+        <dex dex="G:\demo\HelloDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0ae8f088866a7675a79b3039519e643d72259243\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\demo\HelloDemo\app\libs\Msc.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a11eb2b2631d3538589d79e5d85e10d4dc216480">
+        <dex dex="G:\demo\HelloDemo\app\build\intermediates\transforms\dex\debug\folders\1000\2\Msc_cf24ad9960189a9549100b6eecae1ba499fab11f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="G:\demo\HelloDemo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69b910883396779fd7bd7afa0b6766bca340494d">
+        <dex dex="G:\demo\HelloDemo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_862146ac38f7074dacea418a27024aa6c5cd1924\classes.dex" />
+    </item>
+
+</items>

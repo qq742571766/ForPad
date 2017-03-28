@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "G:\\demo\\HelloDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\second.xml",
+        "source": "G:\\demo\\HelloDemo\\app\\src\\main\\res\\layout\\second.xml"
+    },
+    {
+        "merged": "G:\\demo\\HelloDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "G:\\demo\\HelloDemo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "G:\\demo\\HelloDemo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\demo.xml",
+        "source": "G:\\demo\\HelloDemo\\app\\src\\main\\res\\layout\\demo.xml"
+    }
+]
